@@ -8,7 +8,7 @@
 - 👋 Hola, Mi nombre es Jorge Jara
 - 👀 Estoy interesado en lenguajes de programación tales como; PHP, Javascript, Python
 - 🌱 Actualmente me enuentro aprendiendo el framework de Javascript VUEJS y en carpeta aprender Flutter
-- 💞️ Colaboro en el mantenimiento de un framework de PHP llamado Ocrend, este es su repositorio https://github.com/kriollo/Ocrend-framework-3.2
+- 💞️ Colaboro en el mantenimiento de un framework de PHP llamado Ocrend, este es su repositorio https://github.com/kriollo/Ocrend-framework-3
 - 📫 Puedes contactarte conmigo por acá o al correo: kriollone@gmail.com
 
 
